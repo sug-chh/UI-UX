@@ -1,0 +1,14 @@
+{
+  "name": "customgrids",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass style.scss style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
